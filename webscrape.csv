@@ -1,0 +1,6 @@
+color,director_name,num_critic_for_reviews,duration,director_facebook_likes,actor_3_facebook_likes,actor_2_name,actor_1_facebook_likes,gross
+Color,James Cameron,723.0,178.0,0.0,855.0,Joel David Moore,1000.0,760505847.0
+Color,Gore Verbinski,302.0,169.0,563.0,1000.0,Orlando Bloom,40000.0,309404152.0
+Color,Sam Mendes,602.0,148.0,0.0,161.0,Rory Kinnear,11000.0,200074175.0
+Color,Christopher Nolan,813.0,164.0,22000.0,23000.0,Christian Bale,27000.0,448130642.0
+NaN,Doug Walker,NaN,NaN,131.0,NaN,Rob Walker,131.0,NaN
